@@ -16,7 +16,9 @@ Hi 👋, I'm yuvraj<br>A passionate developer from India<br>👯 I’m looking t
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvraj-rathod-1202&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<h2><br>
+<br>
+
+
   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="62" height="62" /> Holopin Contribution Badges
   
