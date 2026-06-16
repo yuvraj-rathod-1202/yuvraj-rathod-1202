@@ -11,7 +11,7 @@ Hi 👋, I'm yuvraj<br>A passionate developer from India<br>👯 I’m looking t
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yuvraj-rathod-1202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yuvraj-rathod-1202&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yuvraj-rathod-1202)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-rathod-1202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
